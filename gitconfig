@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sean.sxs@qq.com
+	name = XuanSheng Song
